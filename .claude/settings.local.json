@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm add vue-i18n@10)",
+      "Bash(pnpm add vue-i18n@11)",
+      "Bash(pnpm build)",
+      "Bash(pnpm test)"
+    ]
+  }
+}
