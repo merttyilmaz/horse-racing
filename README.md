@@ -2,6 +2,8 @@
 
 An interactive horse racing game built with Vue 3, TypeScript, Vuex, Vite, and Tailwind CSS.
 
+**Live demo:** [horse-racing-alpha.vercel.app](https://horse-racing-alpha.vercel.app/)
+
 ## Stack
 
 - **Vue 3** — Composition API with `<script setup>`
